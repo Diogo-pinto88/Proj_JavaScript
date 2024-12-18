@@ -1,0 +1,12 @@
+*** EF_tests/A-21-08-M-ok.out	Fri Oct 18 19:27:35 2024
+--- EF_tests/A-21-08-M-ok.outhyp	Fri Oct 25 14:59:59 2024
+***************
+*** 28,34 ****
+  3 - Vacinar animal
+  4 - Mostrar vacinações
+  0 - Sair
+- Escolha uma opção: Número inválido!
+  Escolha uma opção: Menu Principal
+  1 - Criar ficheiro
+  2 - Abrir ficheiro
+--- 28,33 ----

@@ -1,0 +1,14 @@
+*** EF_tests/A-21-13-M-ok.out	Fri Oct 18 19:27:35 2024
+--- EF_tests/A-21-13-M-ok.outhyp	Fri Oct 25 14:59:59 2024
+***************
+*** 69,72 ****
+  9 - Gestão de vacinas
+  10 - Consultas
+  0 - Sair
+! Escolha uma opção: 
+--- 70,73 ----
+  9 - Gestão de vacinas
+  10 - Consultas
+  0 - Sair
+! Escolha uma opção: 
+\ No newline at end of file
